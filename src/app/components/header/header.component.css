@@ -1,8 +1,22 @@
 .main-div
 {
- font-size: 2rem; 
- color:white; 
- background-color:blue;
- width: auto;
+    font-size: 2rem; 
+    color:white; 
+    background-color:blue;
+    width: auto;
+    height:50px
 }
 
+a
+{   
+    float:right;
+    font-size:1.1rem;
+    font-family:'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:20px
+}
+
+a:hover
+{
+    font: bolder;
+    color: orange;
+}
